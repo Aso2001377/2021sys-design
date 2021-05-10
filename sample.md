@@ -11,7 +11,7 @@ else 登録失敗
 webサーバー -> ユーザー:失敗メッセージを表示
 
 end
-end
+@enduml
 
 @startuml
 ユーザー -> webサーバー:ログイン
